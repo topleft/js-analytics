@@ -1,0 +1,42 @@
+/* add custom styles */
+
+body {
+  padding-top: 70px;
+}
+
+footer {
+  margin: 50px 0;
+}
+
+.analytics {
+  display: none;
+}
+
+.btn-hide {
+  display: none;
+}
+.graph {
+  width: 80%;
+  margin: auto;
+}
+
+.block {
+  background-color: #ddd;
+  height: 1rem;
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+  color: #999;
+  font-size: 0.9rem;
+
+}
+
+.dark-block {
+  background-color: #999;
+  height: 1rem;
+  width: 40%;
+  margin: 0 auto;
+}
+
+
+
